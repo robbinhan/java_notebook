@@ -6,3 +6,5 @@
 
 3、Reference Handler线程的任务就是将一个不用的对象打上标记，放到回收对象的队列中，以便于Finalizer线程来进行释放内存操作。
 
+4、Main线程
+
